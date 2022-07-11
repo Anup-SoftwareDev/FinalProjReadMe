@@ -85,6 +85,38 @@ three personas of users:
 - As an admin I want to be able to answer general enquiries so that I can reply the messages sending from contact page.
 
 ## Wireframes for multiple standard screen sizes, created using industry standard software
+![1](Wireframes/1.png)
+![2](Wireframes/2.png)
+![3](Wireframes/3.png)
+![4](Wireframes/4.png)
+![5](Wireframes/5.png)
+![6](Wireframes/6.png)
+![7](Wireframes/7.png)
+![8](Wireframes/8.png)
+![9](Wireframes/9.png)
+![10](Wireframes/10.png)
+![11](Wireframes/11.png)
+![12](Wireframes/12.png)
+![13](Wireframes/13.png)
+![14](Wireframes/14.png)
+![15](Wireframes/15.png)
+![16](Wireframes/16.png)
+![17](Wireframes/17.png)
+![18](Wireframes/18.png)
+![19](Wireframes/19.png)
+![20](Wireframes/20.png)
+![21](Wireframes/21.png)
+![22]](Wireframes/22.png)
+![23](Wireframes/23.png)
+![24](Wireframes/24.png)
+![25](Wireframes/25.png)
+![26](Wireframes/26.png)
+![27](Wireframes/27.png)
+![28](Wireframes/28.png)
+![29](Wireframes/29.png)
+![30](Wireframes/30.png)
+![31](Wireframes/31.png)
+![32](Wireframes/32.png)
 
 ## Screenshots of your Trello board throughout the duration of the project
 
