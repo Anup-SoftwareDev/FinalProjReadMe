@@ -48,6 +48,8 @@ DevOps: Git, Github, VS Code
 
 ## Application Architecture Diagram
 
+![ArcDiag](ArchitectureDiagram.png)
+
 ## User Stories
 
 ### Initial market research:
