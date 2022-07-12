@@ -2,7 +2,43 @@
 
 ## Description of the application
 
+Sports-4-Us is an App that that helps people from all walks of life, to join and participate in a wide variety of sporting activities of their choice and at times flexible for them.
+
+
 ### Purpose
+
+The main purpose behind Sports-4-Us is to try help build a happier, healthier and more productive world, by increasing the total number of people participating in sports. 
+
+Studies show that living an active life style through sports participation generally improves lives of individuals in the following ways:
+
+- Improved Mental Health and Social Wellness,
+- Improved Physical Health and Fitness,
+- Improved Sleep,
+- Improved Energy Levels and
+- Reduced risk of serious illnesses and chronic diseases.
+
+All these factors improve the quality of life and the capacity of an individual to be more productive. Hence, with more individuals taking part in sports, the world will be more productive and will need less money to be spent on health services and health infrastructure. 
+
+Despite all the well known benefits that come with sports participation, many individuals experience numerous barriers when trying to take part in sports. Some of the barriers experienced by individuals, as mentioned by the Australian Sports Commission (Australian Sports Commission, 2022) are the following:
+
+- **Time:** Families and individuals are getting busier by the day and finding less time to commit to sporting activities. Lot of sporting activities have very inflexible schedule that can be unsuitable for individuals involved in full time work and families.
+- **Cost:** The cost to register for sports can be quite unaffordable for many individuals and families
+Enjoyment: Not everybody is drawn to sports that are competitive in nature and hence this might deter many individuals from taking part. Some people are looking for enjoyment and fitness only.
+- **Self-Esteem:** Some individuals may not feel good enough for sports and hence might stay away from sports.
+Risk: Some people may feel that sports could be dangerous and stay away to risk injuries.
+Awareness: Individuals may not be aware of where the sporting activities are due to not being well connected socially.
+- **Delivery:** Some sporting activities that are available might not be delivered well and informative enough for the general public feel interested.
+
+Sports-4-Us tries to reduce all these barriers and increase participation by providing the following benefits:
+
+- **Easily Accessible:** Sports-4-Us App will be easily accessible on the internet for anybody that can access the internet at no cost. This will ensure that almost all people and even people that were in the dark previously, with regard to sporting information can easily be aware. 
+- **Affordable:** Joining fees and cost to join activities will be at a minimum because there is no need to employ too many people or maintain too much infrastructure for the sporting activities. Few admin personnel and sports organisers can service all the activities which keeps workers wages at a minimum. Facilities and programs are rented or accessed only when needed and hence there is no need to charge members high joining fees to maintain or buy facilities. 
+- **Easy to Join:**  Joining only requires a very easy Sign up process and a minimal joining fee.
+- **Informative:** The App will have extensive information on each activity which will ensure that people from all walks of live will be made fully aware of the details of each program and how that could fit into everybody’s personal lives. 
+- **Flexibility:** For people that have time constraints and inflexible working hours, it works ideal because joining the app does not require a long term commitment to any activity. People can choose to join short term activities when they choose, withdraw after that and later join again when they are free again.
+- **Easy to Contact:** The app provides contact forms and messaging Channels to communicate with administrators and organisers when quite easily. This will clear any doubts, issues or concerns people may have around things like self-esteem and risks.
+- **Lots of Choice:** Joining the app allows the user to choose from a wide range of activities throughout their membership which allows them to experience various sports and opportunities to network with lots of different people.
+
 
 ### Functionality / features
 
