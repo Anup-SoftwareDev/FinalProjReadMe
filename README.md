@@ -19,7 +19,7 @@ Studies show that living an active life style through sports participation gener
 
 All these factors improve the quality of life and the capacity of an individual to be more productive. Hence, with more individuals taking part in sports, it helps to build a **happier**, **healthier** and **more productive world** and one that will need less money to be spend on health services and health infrastructure. 
 
-Despite all the well known benefits that come with sports participation, many individuals experience numerous barriers when trying to take part in sports. Some of the barriers experienced by individuals, as mentioned by the Australian Sports Commission (Australian Sports Commission, 2022) are the following:
+Despite all the well known benefits that come with sports participation, many individuals experience numerous barriers when trying to take part in sports. Some of the barriers experienced by individuals, as mentioned by the Australian Sports Commission *(Australian Sports Commission, 2022) are the following:
 
 - **Time:** Families and individuals are getting busier by the day and finding less time to commit to sporting activities. Lot of sporting activities have very inflexible schedule that can be unsuitable for individuals involved in full time work and families.
 - **Cost:** The cost to register for sports can be quite unaffordable for many individuals and families
@@ -39,8 +39,83 @@ Sports-4-Us tries to reduce all these barriers and increase participation by pro
 - **Easy to Contact:** The app provides contact forms and messaging Channels to communicate with administrators and organisers when quite easily. This will clear any doubts, issues or concerns people may have around things like self-esteem and risks.
 - **Lots of Choice:** Joining the app allows the user to choose from a wide range of activities throughout their membership which allows them to experience various sports and opportunities to network with lots of different people.
 
+****Refference***
+
+Australian Sports Commision (2022) Drivers and barriers of participation. Available at: https://www.sportaus.gov.au/participation/drivers/barriers
+(Accessed: 12 July 2022).
 
 ### Functionality / features
+
+In order to understand the full functionality of Sport-4-Us App, it is important to examine it from the perspective of each of the four different types of users, that will be using the Application:
+
+**Guest Users**
+
+Guest Users are anybody that uses the Application and are not Signed up as a User and hence cannot Log In to the application under any capacity. These users can still use the application but to a much limited capacity. They can more specifically do the following:
+
+- View the Home Page
+- Explore through the different Categories of  Activities available and also the specific Activities within each category in detail.
+- They can also contact the Administrators of the application by typing a message in the Contact Page.
+- If they later decide to be a Member or an Organiser of the Activities, they can then Sign Up using the Sign up Page.
+
+All the above features are what has been decided to be part of the ***Minimum Viable Product*** for design of the Application. Once all that has been implemented the developers hope to implement the following to enrich the Application:
+
+- a payment system during Sign Up to ensure that the users can be charged a ‘Joining fee’ to secure membership.
+- A Weather Forecast for the day each of the activity will take place.
+
+**Members**
+
+Members are the ones who will be choosing from the different activities available and eventually participating in them. To be more specific, they will have access to all the following features:
+
+
+- All the features that are available to Guest Users,
+- Signing In as a User,
+- Booking suitable activity or activities,
+- Paying for suitable activities to Participate
+- Viewing Personal Messages from other members, organisers and Administrators,
+- Messaging and replying to other members, organisers and Administrators using direct messaging,
+- Posting messages in different Messaging channels
+- Editing their Personal Profiles,
+- Viewing list of Activities that they will be participating in.
+- Viewing a list of all the Members and Organisers registered in the App.
+
+**Organisers**
+
+Organisers are the ones who will be in charge of organising the different activities and communicating with members regarding details of each activity. To be more specific, the will have access to all the following features:
+
+- All the features that are available to Guest Users,
+- Signing In as a User,
+- Viewing Personal Messages from other members, organisers and Administrators,
+- Messaging and replying to other members, organisers and Administrators using direct messaging,
+- Posting messages in different Messaging channels
+- Editing their Personal Profiles,
+- Viewing list of Activities that they will are Organising.
+- Viewing a list of all the Members and Organisers registered in the App.
+
+All the above features are what has been decided to be part of the ***Minimum Viable Product*** for design of the Application. Once all that has been implemented the developers hope to implement the following to enrich the Application:
+
+- The Organisers will be able to Create their own Activities and submit it to Administrators for Approval.
+- They will have a page to view all the Activities that have been created but are still waiting to be approved by the Administrators.
+
+**Administrators**
+
+Administrators are the people that are responsible for administrative functions regarding the application. To be more specific they will have access to the following features:
+
+- All features that are available to Guest users.
+- Signing In as a User,
+- Viewing Personal Messages from other members, organisers and Administrators,
+- Messaging and replying to other members, organisers and Administrators using direct messaging,
+- Posting messages in different Messaging channels
+- Editing Personal Profiles of All users,
+- Deleting Users
+- Viewing a list of all the Members and Organisers registered in the App.
+- Creating Activities
+- Assigning Users as Members and Organisers,
+
+All the above features are what has been decided to be part of the ***Minimum Viable Product*** for design of the Application. Once all that has been implemented the developers hope to implement the following to enrich the Application:
+
+- Admin will be in a position to Accept or Reject Activities created by Organisers,
+- Admin will be able to view a list of Activities that are waiting to be approved.
+
 
 ### Target audience
 This app will be aimed at people who have different age and background but only want to have healthy lifestyle and closer social relationship with others by attending regular sports and physical activities.
