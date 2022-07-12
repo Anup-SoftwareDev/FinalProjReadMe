@@ -2,12 +2,12 @@
 
 ## Description of the application
 
-Sports-4-Us is an App that that helps people from all walks of life, to join and participate in a wide variety of sporting activities of their choice and at times flexible for them.
+Sports-4-Us is an App that that helps people from all walks of life, to **join** and **participate** in a wide variety of **sporting activities** of their *choice* and at times *flexible* for them.
 
 
 ### Purpose
 
-The main purpose behind Sports-4-Us is to try help build a happier, healthier and more productive world, by increasing the total number of people participating in sports. 
+The main purpose behind Sports-4-Us is to try help build a **happier**, **healthier** and **more productive world**, by increasing the total number of people participating in sports. 
 
 Studies show that living an active life style through sports participation generally improves lives of individuals in the following ways:
 
