@@ -7,7 +7,7 @@ Sports-4-Us is an App that that helps people from all walks of life, to **join**
 
 ### Purpose
 
-The main purpose behind Sports-4-Us is to try help build a **happier**, **healthier** and **more productive world**, by increasing the total number of people participating in sports. 
+The main purpose behind Sports-4-Us is to try build an Application that will make it easier for more people to  ***participate in sports***.
 
 Studies show that living an active life style through sports participation generally improves lives of individuals in the following ways:
 
@@ -17,7 +17,7 @@ Studies show that living an active life style through sports participation gener
 - Improved Energy Levels and
 - Reduced risk of serious illnesses and chronic diseases.
 
-All these factors improve the quality of life and the capacity of an individual to be more productive. Hence, with more individuals taking part in sports, the world will be more productive and will need less money to be spent on health services and health infrastructure. 
+All these factors improve the quality of life and the capacity of an individual to be more productive. Hence, with more individuals taking part in sports, it helps to build a **happier**, **healthier** and **more productive world** and one that will need less money to be spend on health services and health infrastructure. 
 
 Despite all the well known benefits that come with sports participation, many individuals experience numerous barriers when trying to take part in sports. Some of the barriers experienced by individuals, as mentioned by the Australian Sports Commission (Australian Sports Commission, 2022) are the following:
 
