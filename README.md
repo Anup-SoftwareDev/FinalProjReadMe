@@ -198,7 +198,158 @@ three personas of users:
 - As an admin I want to be able to answer general enquiries so that I can reply the messages sending from contact page.
 
 ## Wireframes for multiple standard screen sizes, created using industry standard software
-![1](Wireframes/1.png)
+
+### Wireframes - User Not Logged-In
+
+![notLoggedIn](SiteMaps/SMnotLoggedIn.png)
+
+**1 - Home Page**
+
+![HomePage](Wireframes/NLhomePage.png)
+
+**2 - All Activity Categories**
+
+![allActiivityCategories](Wireframes/NLallActivityCategories.png)
+
+**3 - Category Activities**
+
+![CategoryActivities](Wireframes/NLcategoryActivities.png)
+
+**4 - Activity Detail**
+
+![ActivityDetail](Wireframes/NLactivityDetail.png)
+
+**5 - Contact Page**
+
+![ContactPage](Wireframes/NLcontactPage.png)
+
+**6 - SignUp Page**
+
+![SignUpPage](Wireframes/NLsignUpPage.png)
+
+**7 - Joining Fee Payment(Not MVP)**
+
+### Wireframes - Member Login
+
+![Member](SiteMaps/SMmember.jpeg)
+
+**1 - Login**
+
+![Login](Wireframes/Mlogin.png)
+
+**2 - Member Dashboard**
+
+![memberDashboard](Wireframes/MmemberDashboard.png)
+
+**3 - Profile**
+
+![profile](Wireframes/Mprofile.png)
+
+**4 - Members**
+
+![Members](Wireframes/Mmembers.png)
+
+**5 - Direct Message Form**
+
+![DirectMessageForm](Wireframes/MdirectMessageForm.png)
+
+**6 - Participating Activities Page**
+
+![ParticipatingActivitiesPage](Wireframes/MparticipatingActivitiesPage.png)
+
+**7&8 - Message Board Page/Inbox Channel**
+
+![MessageBoardPage](Wireframes/MmessageBoardPage.png)
+
+**9 - Direct Message Reply Form**
+
+![DirectMessageReplyForm](Wireframes/MdirectMessageReplyForm.png)
+
+**10 - General Channel Page**
+
+![GeneralChannelPage](Wireframes/MgeneralChannelPage.png)
+
+**11 - Sport Category  Channels**
+
+![sportCategoryChannels](Wireframes/MsportsCategoryChannels.png)
+
+**12 - Past Activities(Not MVP)**
+
+![PastActivities](Wireframes/MpastActivities.png)
+
+### Wireframes - Organiser Login
+
+![Organiser](SiteMaps/SMorganiser.png)
+
+**1 - Organiser Dashboard**
+
+![OrganiserDashboard](Wireframes/OorganiserDashboard.png)
+
+**2 - Profile**
+
+![Profile](Wireframes/Oprofile.png)
+
+**3 - Organised Activities**
+
+![OrganisedAcitivities](Wireframes/OorganisedActivities.png)
+
+**4 - View Members(Not MVP)**
+
+![ViewMembers](Wireframes/OviewMembers.png)
+
+**5 -  Direct Message Form(Not MVP)**
+
+![DirectMessageForm](Wireframes/OdirectMessageForm.png)
+
+**6 - Direct Message Reply Form(Not MVP)**
+
+![DirectMessageReplyForm](Wireframes/OdirectMessageReplyForm.png)
+
+**7 - Create Activity Page(Not MVP)**
+
+![CreateActivityPage](Wireframes/OcreateActivityPage.png)
+
+**8 - Past Activities(Not MVP)**
+
+![PastActivities](Wireframes/OpastActivities.png)
+
+**9 - Activities Pending Approval(Not MVP)** 
+
+![AcitivitiesPendingApproval](Wireframes/OactivitiesPendingApproval.png)
+
+**10 - Pending Activity Detail(Not MVP)**
+
+![PendingAcitivityDetail](Wireframes/OpendingAcitivityDetail.png)
+
+### Wireframes - Admin Login**1**
+
+![Admin](SiteMaps/SMadmin.png)
+
+**1 - Admin Dashboard**
+
+![AdminDashboard](Wireframes/AadminDashboard.png)
+
+**2 - Edit User Profile**
+
+![EditUserProfile](Wireframes/AeditUserProfile.png)
+
+**3 - Direct Message Form**
+
+![DirectMessageForm](Wireframes/AdirectMessageForm.png)
+
+**4 - Direct Message Reply Form**
+
+![DirectMessageReplyForm](Wireframes/AdirectMessageReplyForm.png)
+
+**5 - Activity Pending Approval(Not MVP)**
+
+![ActivityPendingApproval](Wireframes/AactivityPendingApproval.png)
+
+**6 - Pending Activity Detail(Not MVP)**
+
+![PendingAcitivityDetail](Wireframes/ApendingActivityDetail.png)
+
+<!---![1](Wireframes/1.png)
 ![2](Wireframes/2.png)
 ![3](Wireframes/3.png)
 ![4](Wireframes/4.png)
@@ -229,7 +380,7 @@ three personas of users:
 ![29](Wireframes/29.png)
 ![30](Wireframes/30.png)
 ![31](Wireframes/31.png)
-![32](Wireframes/32.png)
+![32](Wireframes/32.png)-->
 
 ## Screenshots of your Trello board throughout the duration of the project
 
