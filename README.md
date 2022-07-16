@@ -27,10 +27,10 @@ Despite all the well known benefits that come with sports participation, many in
 
 - **Time:** Families and individuals are getting busier by the day and finding less time to commit to sporting activities. Lot of sporting activities have very inflexible schedule that can be unsuitable for individuals involved in full time work and families.
 - **Cost:** The cost to register for sports can be quite unaffordable for many individuals and families
-Enjoyment: Not everybody is drawn to sports that are competitive in nature and hence this might deter many individuals from taking part. Some people are looking for enjoyment and fitness only.
+- **Enjoyment:** Not everybody is drawn to sports that are competitive in nature and hence this might deter many individuals from taking part. Some people are looking for enjoyment and fitness only.
 - **Self-Esteem:** Some individuals may not feel good enough for sports and hence might stay away from sports.
-Risk: Some people may feel that sports could be dangerous and stay away to risk injuries.
-Awareness: Individuals may not be aware of where the sporting activities are due to not being well connected socially.
+- **Risk:** Some people may feel that sports could be dangerous and stay away to risk injuries.
+- **Awareness:** Individuals may not be aware of where the sporting activities are due to not being well connected socially.
 - **Delivery:** Some sporting activities that are available might not be delivered well and informative enough for the general public feel interested.
 
 Sports-4-Us tries to reduce all these barriers and increase participation by providing the following benefits:
