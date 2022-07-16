@@ -170,8 +170,8 @@ The one thing to note in the above Architecture Diagram is that the implementati
 
 ### Final market research:
 
-|   AS A..  |                                             I WANT TO..                                            |                                   SO THAT..                                  |
-|:---------:|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| AS A..    | I WANT TO..                                                                                        | SO THAT..                                                                    |
+|-----------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | Guest     | I want to explore all activities.                                                                  | I can decide whether I will sign up as a member to attend sports activities. |
 | Guest     | I want to sign up as a member.                                                                     | I can register any available sports activities.                              |
 | Guest     | I want to contact admin of this website.                                                           | I can make some enquiries.                                                   |
@@ -189,6 +189,9 @@ The one thing to note in the above Architecture Diagram is that the implementati
 | Admin     | I want to be able to manage activities so that I can create, update and delete activity as needed. |                                                                              |
 | Admin     | I want to be able to manage member's profile.                                                      | I can keep it up to date.                                                    |
 | Admin     | I want to be able to answer general enquiries.                                                     | I can reply the messages sending from contact page.                          |
+You can now import Markdown table code directly using File/Paste table data... dialog.
+
+
 
 
 #### Non-member user stories:
