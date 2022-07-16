@@ -240,155 +240,246 @@ The one thing to note in the above Architecture Diagram is that the implementati
 
 ## Wireframes for multiple standard screen sizes, created using industry standard software
 
+This section shows all the wireframes that have been designed for Sports4Us App. The wireframes have been separated into four sections:
+
+- Wireframes - User Not Logged-In
+- Wireframes - Member Login
+- Wireframes - Organiser Login
+- Wireframes - Admin Login
+
+Each section will first provide a sitemap on how the webpages will 'flow' under the logged in/not logged-in condition and then the wireframes for each of the webpages shown in the sitemap will be displayed in order. However if any of the webpages in the sitemap is a repeat and had been shown before, then it will not be repeated again.
+
 ### A. Wireframes - User Not Logged-In
 
 ![notLoggedIn](docs/SiteMaps/SMnotLoggedIn.png)
+
+As shown in the sitemap any user can access "All Activity Categories", "Contact" and "Sign-up" from the Home Page. Any user can perform a sign up to access a Member Dashboard page. In the future a payment system for Sign up will be implemented, however as shown this is not part of the MVP currently. The user can also gain access to a page showing the different categories of sports and from here the user can access a page with more detailed information on each Sporting Activity.
 
 **1 - Home Page**
 
 ![HomePage](docs/Wireframes/NLhomePage.png)
 
+The home page will have some sporting images in the background with buttons and links to all the pages accessible from the home page, as shown in the site map. The navbar on top will change to a hamburger menu on the mobile view, which will be the case in all the wireframes.
+
 **2 - All Activity Categories**
 
 ![allActiivityCategories](docs/Wireframes/NLallActivityCategories.png)
 
+This page will display sporting cateory links with images of the particular sport. It will display 4x2 categories on the desktop, 2x2 on the tablet and finally just 1 at a time in the mobile view.
+ 
 **3 - Category Activities**
 
 ![CategoryActivities](docs/Wireframes/NLcategoryActivities.png)
+
+Once a category (cycling in this example) is clicked this page will appear shing a list of all the activities within the category and some brief detail on each.
 
 **4 - Activity Detail**
 
 ![ActivityDetail](docs/Wireframes/NLactivityDetail.png)
 
+This page will show full details ont he activity and links to Register, View Participants and Message. There is a Weather forecast feature which is not part of the MVP design and will be considered in the future. View Paricipants will also be a non-MVP feature which will be accessible only to admin and organisers.
+
 **A.5 - Contact Page**
 
 ![ContactPage](docs/Wireframes/NLcontactPage.png)
 
+THis is a page that is very similar for all screenwidth and messagees here will go to the Admin Email.
+
 **6 - SignUp Page**
 
-![SignUpPage](docs/Wireframes/NLsignUpPage.png)
+![SignUpPage](docs/Wireframes/NLsignUp1.png)
+
+As shown the Sign up page lets the user input information required for a basic sign up.
 
 **7 - Joining Fee Payment(Not MVP)**
+
+This feature will require accessing an external page like "stripe" and hence will not be designed here. It should also be noted that it is not part of the MVP design at the momment.
 
 ### B. Wireframes - Member Login
 
 ![Member](docs/SiteMaps/SMmember.jpeg)
 
+The above sitemap is an extension of the one shown from the previous section. This shows all the webpages that can be accessed once the user is signed in as a member. 
+
+It gives the User access to a dashboard and from here it gives rise to messaging features. Messaging involves direct messaging forms and channels. It also involves messaging general and sporting category channels. The Member can also edit their profile, access Members page and Participating activiity pages. The user can also now Book and pay for activities.
+
 **1 - Login**
 
 ![Login](docs/Wireframes/Mlogin.png)
+
+This is a simple Login form which just requres email and password.
 
 **2 - Member Dashboard**
 
 ![memberDashboard](docs/Wireframes/MmemberDashboard.png)
 
+THis now shows a summary of the User's personal messages and Participating Activities. On the left user will have a nav bar showing the Member's profile picture and links to all the pages that 'flow' from the dashboard. The mobile view will display everything below the picture as shown.
+
 **B.3 - Profile**
 
 ![profile](docs/Wireframes/Mprofile.png)
+
+This page allows the user to enter all their profile details. They however will not be able to change their account type, which will only be accesible to the Admin.
 
 **4 - Members**
 
 ![Members](docs/Wireframes/Mmembers.png)
 
+This page provides a list for all the members and organisers in the App. The Edit profile button will only be visible to the Admin. The user can do direct messaging from this page.
+
 **5 - Direct Message Form**
 
 ![DirectMessageForm](docs/Wireframes/MdirectMessageForm.png)
+
+This page opens up when messaging button for a particular member in the previous wire frame is clicked. Past Activities is not part of the MVP design.
 
 **6 - Participating Activities Page**
 
 ![ParticipatingActivitiesPage](docs/Wireframes/MparticipatingActivitiesPage.png)
 
+This page shows a full list of activities that the Member is participating in.
+
 **7&8 - Message Board Page/Inbox Channel**
 
 ![MessageBoardPage](docs/Wireframes/MmessageBoardPage.png)
+
+The Message board opens by default into to inbox page where the member can see their full list of personal messages.
 
 **9 - Direct Message Reply Form**
 
 ![DirectMessageReplyForm](docs/Wireframes/MdirectMessageReplyForm.png)
 
+This page opens up when the member wants to view the full message. There is a section below to type a reply and send it.
+
 **10 - General Channel Page**
 
 ![GeneralChannelPage](docs/Wireframes/MgeneralChannelPage.png)
+
+Here the members can post messages relating to general content and the messages will appear at the bottom.
 
 **11 - Sport Category  Channels**
 
 ![sportCategoryChannels](docs/Wireframes/MsportsCategoryChannels.png)
 
+Here the members can post messages relating to a particular sporting category and the messages will appear at the bottom.
+
 **12 - Past Activities(Not MVP)**
 
 ![PastActivities](docs/Wireframes/MpastActivities.png)
+
+This gives the member a count on the total activities that was participated and give a full list of the activities. This is however not part of the MVP design.
 
 ### C. Wireframes - Organiser Login
 
 ![Organiser](docs/SiteMaps/SMorganiser.png)
 
+The above sitemap looks very similar to the Member one with a few exceptions:
+
+- The Organiser can not book activities
+- Organised activities instead of Participating Activities.
+- Some items not part of MVP - view Members, Create Activity and Pending Activities.
+
 **1 - Organiser Dashboard**
 
 ![OrganiserDashboard](docs/Wireframes/OorganiserDashboard.png)
+
+This is similar to the Member Dashboard with the main exception of Organised activities instead of Participating Activities.  Links to pending activities, create Activiites and Past activiites are not part of the MVP.
 
 **2 - Profile**
 
 ![Profile](docs/Wireframes/Oprofile.png)
 
+This is very similar to the previous profile page with a few changes in the nav bar as mentioned before.
+
 **3 - Organised Activities**
 
 ![OrganisedAcitivities](docs/Wireframes/OorganisedActivities.png)
 
+This is very similar to the Participating Activities page shown earlier.
+
 **4 - View Members(Not MVP)**
 
-![ViewMembers](docs/Wireframes/OviewMembers.png)
+This is not part of the MVP, however will look very similar to the Members page in the previous section once implemented.
 
-**5 -  Direct Message Form(Not MVP)**
+**5 -  Direct Message Form**
 
 ![DirectMessageForm](docs/Wireframes/OdirectMessageForm.png)
 
-**6 - Direct Message Reply Form(Not MVP)**
+This is very similar to the previous Direct Message form with a few changes in the nav bar as mentioned before.
+
+**6 - Direct Message Reply Form**
 
 ![DirectMessageReplyForm](docs/Wireframes/OdirectMessageReplyForm.png)
+
+This is very similar to the previous Direct Message Reply page with a few changes in the nav bar as mentioned before.
 
 **7 - Create Activity Page(Not MVP)**
 
 ![CreateActivityPage](docs/Wireframes/OcreateActivityPage.png)
 
+This feature is currently not part of the MVP. When implemented the organiser will have the power to create and activity and submit it to Admin for approval.
+
 **8 - Past Activities(Not MVP)**
 
 ![PastActivities](docs/Wireframes/OpastActivities.png)
+
+This feature is currently not part of the MVP. When implemented the organiser will be able to see a count of all the activities organsied and its full list.
 
 **9 - Activities Pending Approval(Not MVP)** 
 
 ![AcitivitiesPendingApproval](docs/Wireframes/OactivitiesPendingApproval.png)
 
+This feature is currently not part of the MVP. When implemented the organiser will be able to view activites that were created by them and waiting for approval.
+
 **10 - Pending Activity Detail(Not MVP)**
 
 ![PendingAcitivityDetail](docs/Wireframes/OpendingAcitivityDetail.png)
+
+This feature is currently not part of the MVP. When implemented the organiser will be able to view details of the activities created by them and waiting for approval.
 
 ### Wireframes - Admin Login**1**
 
 ![Admin](docs/SiteMaps/SMadmin.png)
 
+What is different here is the page where Admin can edit the User profile of any member. They can also create activities. Finally there in a non-MVP part where there are pages to view and Approve activities created by the Organiser.
+
 **1 - D. Admin Dashboard**
 
 ![AdminDashboard](docs/Wireframes/AadminDashboard.png)
+
+The navbar on the left is smaller and different to the other dashboards. There is a pending activity list which is not part of the MVP design. 
 
 **2 - Edit User Profile**
 
 ![EditUserProfile](docs/Wireframes/AeditUserProfile.png)
 
+This page is very similar to the pages for members to edit their personal profiles, with the exception that there is a 'delete profile' button.
+ 
 **3 - Direct Message Form**
 
 ![DirectMessageForm](docs/Wireframes/AdirectMessageForm.png)
+
+This is very similar to the previous Direct Message Form page with a few changes in the nav bar as mentioned before.
+
+
 
 **4 - Direct Message Reply Form**
 
 ![DirectMessageReplyForm](docs/Wireframes/AdirectMessageReplyForm.png)
 
+This is very similar to the previous Direct Message Reply Form with a few changes in the nav bar as mentioned before.
+
 **5 - Activity Pending Approval(Not MVP)**
 
 ![ActivityPendingApproval](docs/Wireframes/AactivityPendingApproval.png)
 
+This feature is currently not part of the MVP. When implemented the admin will be able to view full list of activities created by organisers and waiting for approval.
+
 **6 - Pending Activity Detail(Not MVP)**
 
 ![PendingAcitivityDetail](docs/Wireframes/ApendingActivityDetail.png)
+
+This feature is currently not part of the MVP. When implemented admin will be able to view details of the activities created by the Organisers and either approve or reject them.
 
 ## Screenshots of your Trello board throughout the duration of the project
 
