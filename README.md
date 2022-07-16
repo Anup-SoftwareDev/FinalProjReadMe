@@ -170,26 +170,25 @@ The one thing to note in the above Architecture Diagram is that the implementati
 
 ### Final market research:
 
-| AS A..    | I WANT TO..                                                                                        | SO THAT..                                                                    |
-|-----------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Guest     | I want to explore all activities.                                                                  | I can decide whether I will sign up as a member to attend sports activities. |
-| Guest     | I want to sign up as a member.                                                                     | I can register any available sports activities.                              |
-| Guest     | I want to contact admin of this website.                                                           | I can make some enquiries.                                                   |
-| Member    | I want to manage my profile.                                                                       | I can keep it up to date.                                                    |
-| Member    | I want to inquire to particular activity or organiser.                                             | I can know better about the activity like equipment, location etc.           |
-| Member    | I want to make a payment after register the activity.                                              | I can get a ticket to attend the activity.                                   |
-| Member    | I want to message other members or admin.                                                          | We can communicate directly.                                                 |
-| Member    | I want to see my personal dashboard.                                                               | I can find all my registered activities.                                     |
-| Member    | I want to see all members' briefing information.                                                   | I can find someone has same interests and location.                          |
-| Member    | I want to be an activity organiser                                                                 | I can organise my own activities.                                            |
-| Organiser | I want to see my dashboard.                                                                        | I can see all my organised activities.                                       |
-| Organiser | I want to see all members' briefing information                                                    | I can monitor what activities is more popular.                               |
-| Organiser | I want to reply messages from members.                                                             | I can quickly answer all enquiries related to the activity.                  |
-| Admin     | I want to have a dashboard.                                                                        | I can manage all activities and members in one place.                        |
-| Admin     | I want to be able to manage activities so that I can create, update and delete activity as needed. |                                                                              |
-| Admin     | I want to be able to manage member's profile.                                                      | I can keep it up to date.                                                    |
-| Admin     | I want to be able to answer general enquiries.                                                     | I can reply the messages sending from contact page.                          |
-
+| AS A..    | I WANT TO..                                                       | SO THAT..                                                                             |
+|-----------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Guest     | I want to explore various sporting activities.                    | I can decide whether I should sign up as a member to attend sports activities.        |
+| Guest     | I want to sign up as a member.                                    | I can book any available sports activity/activities that I will like to take part in. |
+| Guest     | I want to contact admin of this website.                          | I can make some enquiries.                                                            |
+| Member    | I want to manage my profile.                                      | I can keep it up to date.                                                             |
+| Member    | I want to inquire about a particular activity with the organiser. | I can know more information about the activity like equipment, location etc.          |
+| Member    | I want to make a payment after booking the activity.              | I can get a ticket to attend the activity.                                            |
+| Member    | I want to message other members, organisers or admin.             | We can communicate directly.                                                          |
+| Member    | I want to see my personal dashboard.                              | I can find all my registered activities and messages.                                 |
+| Member    | I want to see all members' briefing information.                  | I can find someone from the same location, who has the same interests.                |
+| Member    | I want to be an activity organiser                                | I can organise my own activities.                                                     |
+| Organiser | I want to see my dashboard.                                       | I can see all my organised activities and messages.                                   |
+| Organiser | I want to see all members' briefing information                   | I can monitor what activities is more popular.                                        |
+| Organiser | I want to reply to messages from members.                         | I can quickly answer all enquiries related to the activity.                           |
+| Admin     | I want to have a dashboard.                                       | I can manage all activities, messages and members in one place.                       |
+| Admin     | I want to be able to manage activities.                           | I can create, update and delete activity as needed                                    |
+| Admin     | I want to be able to manage member's profile.                     | I can keep it up to date or delete the member.                                        |
+| Admin     | I want to be able to answer general enquiries.                    | I can reply the messages sent to me from the contact page.                            |
 
 
 
