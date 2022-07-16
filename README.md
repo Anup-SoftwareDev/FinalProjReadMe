@@ -146,8 +146,7 @@ DevOps: Git, Github, VS Code
 ## Dataflow Diagram
 
 ![One](docs/DataFlowDiagrams/1.png)
-![2pt1](docs/DataFlowDiagrams/2.1.png)
-![2pt2](docs/DataFlowDiagrams/2.2.png)
+![2](docs/DataFlowDiagrams/2.png)
 ![3pt1](docs/DataFlowDiagrams/3.1.png)
 ![3pt2pt3spt3](docs/DataFlowDiagrams/3.2.3.3.png)
 ![3pt4pt3spt5](docs/DataFlowDiagrams/3.4.3.5.png)
