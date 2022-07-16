@@ -159,22 +159,38 @@ DevOps: Git, Github, VS Code
 
 ## Application Architecture Diagram
 
-![ArcDiag](ArchitectureDiagram.png)
+![ArcDiag](docs/ArchitectureDiagram.png)
 
+The one thing to note in the above Architecture Diagram is that the implementation of the system accessing the Weather API is not part of the MVP(Minimum Viable Product) design. It is a feature that will be implemented once all the MVP features have been sucessfully implemented.
 ## User Stories
 
 ### Initial market research:
-three personas of users:
-- Jason Smith (Male, age 20) 
--- As a student I want to join different sports activities like tennis, soccer everyweek and make more young friends.
 
-- Melinda Jacob (Female, age 35)
--- As a mum of two kids I want to join mild activity like running to release life pressure and talk to others with similar situation.
-
-- John Brown (Male, age 62)
--- As a retired professor I want to join light physical activity like hiking to keep health and explore more nature scenery.
+![userStoriesPersonas](docs/UserStories/UserStoriesPersonas.png)
 
 ### Final market research:
+
+|   AS A..  |                                             I WANT TO..                                            |                                   SO THAT..                                  |
+|:---------:|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| Guest     | I want to explore all activities.                                                                  | I can decide whether I will sign up as a member to attend sports activities. |
+| Guest     | I want to sign up as a member.                                                                     | I can register any available sports activities.                              |
+| Guest     | I want to contact admin of this website.                                                           | I can make some enquiries.                                                   |
+| Member    | I want to manage my profile.                                                                       | I can keep it up to date.                                                    |
+| Member    | I want to inquire to particular activity or organiser.                                             | I can know better about the activity like equipment, location etc.           |
+| Member    | I want to make a payment after register the activity.                                              | I can get a ticket to attend the activity.                                   |
+| Member    | I want to message other members or admin.                                                          | We can communicate directly.                                                 |
+| Member    | I want to see my personal dashboard.                                                               | I can find all my registered activities.                                     |
+| Member    | I want to see all members' briefing information.                                                   | I can find someone has same interests and location.                          |
+| Member    | I want to be an activity organiser                                                                 | I can organise my own activities.                                            |
+| Organiser | I want to see my dashboard.                                                                        | I can see all my organised activities.                                       |
+| Organiser | I want to see all members' briefing information                                                    | I can monitor what activities is more popular.                               |
+| Organiser | I want to reply messages from members.                                                             | I can quickly answer all enquiries related to the activity.                  |
+| Admin     | I want to have a dashboard.                                                                        | I can manage all activities and members in one place.                        |
+| Admin     | I want to be able to manage activities so that I can create, update and delete activity as needed. |                                                                              |
+| Admin     | I want to be able to manage member's profile.                                                      | I can keep it up to date.                                                    |
+| Admin     | I want to be able to answer general enquiries.                                                     | I can reply the messages sending from contact page.                          |
+
+
 #### Non-member user stories:
 - As a non-member user I want to explore all activities before I can decide whether I will sign up as a member to attend sports activities.
 - As a non-member user I want to sign up as a member so that I can register any available sports activities.
