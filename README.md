@@ -189,32 +189,11 @@ The one thing to note in the above Architecture Diagram is that the implementati
 | Admin     | I want to be able to manage activities so that I can create, update and delete activity as needed. |                                                                              |
 | Admin     | I want to be able to manage member's profile.                                                      | I can keep it up to date.                                                    |
 | Admin     | I want to be able to answer general enquiries.                                                     | I can reply the messages sending from contact page.                          |
-You can now import Markdown table code directly using File/Paste table data... dialog.
 
 
 
 
-#### Non-member user stories:
-- As a non-member user I want to explore all activities before I can decide whether I will sign up as a member to attend sports activities.
-- As a non-member user I want to sign up as a member so that I can register any available sports activities.
-- As a non-member user I want to contact admin of this website so that I can make some enquiries.
-#### member user stories:
-- As a member I want to manage my profile so that I can keep it up to date.
-- As a member I want to inquire to particular activity or organiser so that I can know better about the activity like equipment, location etc.
-- As a member I want to make a payment after register the activity so that I can get a ticket to attend the activity.
-- As a member I want to message other members or admin so that we can communicate directly.
-- As a member I want to see my personal dashboard so that I can find all my registered activities.
-- As a member I want to see all members' briefing information so that I can find someone has same interests and location.
-- As a member I want to be an activity organiser so that I can organise my own activities.
-#### organiser user stories:
-- As an organiser I want to see my dashboard so that I can see all my organised activities.
-- As an organiser I want to see all members' briefing information so that I can monitor what activities is more popular.
-- As an organiser I want to reply messages from members so that I can quickly answer all enquiries related to the activity.
-#### admin user stories:
-- As an admin I want to have a dashboard so that I can manage all activities and members in one place.
-- As an admin I want to be able to manage activities so that I can create, update and delete activity as needed.
-- As an admin I want to be able to manage member's profile so that I can keep it up to date.
-- As an admin I want to be able to answer general enquiries so that I can reply the messages sending from contact page.
+
 
 ## Wireframes for multiple standard screen sizes, created using industry standard software
 
