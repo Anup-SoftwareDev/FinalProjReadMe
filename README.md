@@ -4,6 +4,10 @@
 
 Sports-4-Us is an App that that helps people from all walks of life, to **join** and **participate** in a wide variety of **sporting activities** of their *choice* and at times *flexible* for them.
 
+The figure below shows how a user can typically use the Sport4Us app to eventually particiapte in activities.
+
+![Sports4Us](docs/Description/Sports4Us.png)
+
 
 ### Purpose
 
@@ -38,6 +42,10 @@ Sports-4-Us tries to reduce all these barriers and increase participation by pro
 - **Flexibility:** For people that have time constraints and inflexible working hours, it works ideal because joining the app does not require a long term commitment to any activity. People can choose to join short term activities when they choose, withdraw after that and later join again when they are free again.
 - **Easy to Contact:** The app provides contact forms and messaging Channels to communicate with administrators and organisers when quite easily. This will clear any doubts, issues or concerns people may have around things like self-esteem and risks.
 - **Lots of Choice:** Joining the app allows the user to choose from a wide range of activities throughout their membership which allows them to experience various sports and opportunities to network with lots of different people.
+
+A summary of everything mentioned so far is shown in the image below:
+
+![whySports4Us](docs/Description/whySports4Us.png)
 
 ****Refference***
 
@@ -118,7 +126,8 @@ All the above features are what has been decided to be part of the ***Minimum Vi
 
 
 ### Target audience
-This app will be aimed at people who have different age and background but only want to have healthy lifestyle and closer social relationship with others by attending regular sports and physical activities.
+
+This app will be aimed for anybody from any backround above the age of 18 who would love to participate in sport for a healthy lifestyle and closer social interaction with other peopele that share the same interests.
 
 ### Tech stack
 
