@@ -199,196 +199,173 @@ three personas of users:
 
 ## Wireframes for multiple standard screen sizes, created using industry standard software
 
-### Wireframes - User Not Logged-In
+### A. Wireframes - User Not Logged-In
 
-![notLoggedIn](SiteMaps/SMnotLoggedIn.png)
+![notLoggedIn](docs/SiteMaps/SMnotLoggedIn.png)
 
 **1 - Home Page**
 
-![HomePage](Wireframes/NLhomePage.png)
+![HomePage](docs/Wireframes/NLhomePage.png)
 
 **2 - All Activity Categories**
 
-![allActiivityCategories](Wireframes/NLallActivityCategories.png)
+![allActiivityCategories](docs/Wireframes/NLallActivityCategories.png)
 
 **3 - Category Activities**
 
-![CategoryActivities](Wireframes/NLcategoryActivities.png)
+![CategoryActivities](docs/Wireframes/NLcategoryActivities.png)
 
 **4 - Activity Detail**
 
-![ActivityDetail](Wireframes/NLactivityDetail.png)
+![ActivityDetail](docs/Wireframes/NLactivityDetail.png)
 
-**5 - Contact Page**
+**A.5 - Contact Page**
 
-![ContactPage](Wireframes/NLcontactPage.png)
+![ContactPage](docs/Wireframes/NLcontactPage.png)
 
 **6 - SignUp Page**
 
-![SignUpPage](Wireframes/NLsignUpPage.png)
+![SignUpPage](docs/Wireframes/NLsignUpPage.png)
 
 **7 - Joining Fee Payment(Not MVP)**
 
-### Wireframes - Member Login
+### B. Wireframes - Member Login
 
-![Member](SiteMaps/SMmember.jpeg)
+![Member](docs/SiteMaps/SMmember.jpeg)
 
 **1 - Login**
 
-![Login](Wireframes/Mlogin.png)
+![Login](docs/Wireframes/Mlogin.png)
 
 **2 - Member Dashboard**
 
-![memberDashboard](Wireframes/MmemberDashboard.png)
+![memberDashboard](docs/Wireframes/MmemberDashboard.png)
 
-**3 - Profile**
+**B.3 - Profile**
 
-![profile](Wireframes/Mprofile.png)
+![profile](docs/Wireframes/Mprofile.png)
 
 **4 - Members**
 
-![Members](Wireframes/Mmembers.png)
+![Members](docs/Wireframes/Mmembers.png)
 
 **5 - Direct Message Form**
 
-![DirectMessageForm](Wireframes/MdirectMessageForm.png)
+![DirectMessageForm](docs/Wireframes/MdirectMessageForm.png)
 
 **6 - Participating Activities Page**
 
-![ParticipatingActivitiesPage](Wireframes/MparticipatingActivitiesPage.png)
+![ParticipatingActivitiesPage](docs/Wireframes/MparticipatingActivitiesPage.png)
 
 **7&8 - Message Board Page/Inbox Channel**
 
-![MessageBoardPage](Wireframes/MmessageBoardPage.png)
+![MessageBoardPage](docs/Wireframes/MmessageBoardPage.png)
 
 **9 - Direct Message Reply Form**
 
-![DirectMessageReplyForm](Wireframes/MdirectMessageReplyForm.png)
+![DirectMessageReplyForm](docs/Wireframes/MdirectMessageReplyForm.png)
 
 **10 - General Channel Page**
 
-![GeneralChannelPage](Wireframes/MgeneralChannelPage.png)
+![GeneralChannelPage](docs/Wireframes/MgeneralChannelPage.png)
 
 **11 - Sport Category  Channels**
 
-![sportCategoryChannels](Wireframes/MsportsCategoryChannels.png)
+![sportCategoryChannels](docs/Wireframes/MsportsCategoryChannels.png)
 
 **12 - Past Activities(Not MVP)**
 
-![PastActivities](Wireframes/MpastActivities.png)
+![PastActivities](docs/Wireframes/MpastActivities.png)
 
-### Wireframes - Organiser Login
+### C. Wireframes - Organiser Login
 
-![Organiser](SiteMaps/SMorganiser.png)
+![Organiser](docs/SiteMaps/SMorganiser.png)
 
 **1 - Organiser Dashboard**
 
-![OrganiserDashboard](Wireframes/OorganiserDashboard.png)
+![OrganiserDashboard](docs/Wireframes/OorganiserDashboard.png)
 
 **2 - Profile**
 
-![Profile](Wireframes/Oprofile.png)
+![Profile](docs/Wireframes/Oprofile.png)
 
 **3 - Organised Activities**
 
-![OrganisedAcitivities](Wireframes/OorganisedActivities.png)
+![OrganisedAcitivities](docs/Wireframes/OorganisedActivities.png)
 
 **4 - View Members(Not MVP)**
 
-![ViewMembers](Wireframes/OviewMembers.png)
+![ViewMembers](docs/Wireframes/OviewMembers.png)
 
 **5 -  Direct Message Form(Not MVP)**
 
-![DirectMessageForm](Wireframes/OdirectMessageForm.png)
+![DirectMessageForm](docs/Wireframes/OdirectMessageForm.png)
 
 **6 - Direct Message Reply Form(Not MVP)**
 
-![DirectMessageReplyForm](Wireframes/OdirectMessageReplyForm.png)
+![DirectMessageReplyForm](docs/Wireframes/OdirectMessageReplyForm.png)
 
 **7 - Create Activity Page(Not MVP)**
 
-![CreateActivityPage](Wireframes/OcreateActivityPage.png)
+![CreateActivityPage](docs/Wireframes/OcreateActivityPage.png)
 
 **8 - Past Activities(Not MVP)**
 
-![PastActivities](Wireframes/OpastActivities.png)
+![PastActivities](docs/Wireframes/OpastActivities.png)
 
 **9 - Activities Pending Approval(Not MVP)** 
 
-![AcitivitiesPendingApproval](Wireframes/OactivitiesPendingApproval.png)
+![AcitivitiesPendingApproval](docs/Wireframes/OactivitiesPendingApproval.png)
 
 **10 - Pending Activity Detail(Not MVP)**
 
-![PendingAcitivityDetail](Wireframes/OpendingAcitivityDetail.png)
+![PendingAcitivityDetail](docs/Wireframes/OpendingAcitivityDetail.png)
 
 ### Wireframes - Admin Login**1**
 
-![Admin](SiteMaps/SMadmin.png)
+![Admin](docs/SiteMaps/SMadmin.png)
 
-**1 - Admin Dashboard**
+**1 - D. Admin Dashboard**
 
-![AdminDashboard](Wireframes/AadminDashboard.png)
+![AdminDashboard](docs/Wireframes/AadminDashboard.png)
 
 **2 - Edit User Profile**
 
-![EditUserProfile](Wireframes/AeditUserProfile.png)
+![EditUserProfile](docs/Wireframes/AeditUserProfile.png)
 
 **3 - Direct Message Form**
 
-![DirectMessageForm](Wireframes/AdirectMessageForm.png)
+![DirectMessageForm](docs/Wireframes/AdirectMessageForm.png)
 
 **4 - Direct Message Reply Form**
 
-![DirectMessageReplyForm](Wireframes/AdirectMessageReplyForm.png)
+![DirectMessageReplyForm](docs/Wireframes/AdirectMessageReplyForm.png)
 
 **5 - Activity Pending Approval(Not MVP)**
 
-![ActivityPendingApproval](Wireframes/AactivityPendingApproval.png)
+![ActivityPendingApproval](docs/Wireframes/AactivityPendingApproval.png)
 
 **6 - Pending Activity Detail(Not MVP)**
 
-![PendingAcitivityDetail](Wireframes/ApendingActivityDetail.png)
-
-<!---![1](Wireframes/1.png)
-![2](Wireframes/2.png)
-![3](Wireframes/3.png)
-![4](Wireframes/4.png)
-![5](Wireframes/5.png)
-![6](Wireframes/6.png)
-![7](Wireframes/7.png)
-![8](Wireframes/8.png)
-![9](Wireframes/9.png)
-![10](Wireframes/10.png)
-![11](Wireframes/11.png)
-![12](Wireframes/12.png)
-![13](Wireframes/13.png)
-![14](Wireframes/14.png)
-![15](Wireframes/15.png)
-![16](Wireframes/16.png)
-![17](Wireframes/17.png)
-![18](Wireframes/18.png)
-![19](Wireframes/19.png)
-![20](Wireframes/20.png)
-![21](Wireframes/21.png)
-![22]](Wireframes/22.png)
-![23](Wireframes/23.png)
-![24](Wireframes/24.png)
-![25](Wireframes/25.png)
-![26](Wireframes/26.png)
-![27](Wireframes/27.png)
-![28](Wireframes/28.png)
-![29](Wireframes/29.png)
-![30](Wireframes/30.png)
-![31](Wireframes/31.png)
-![32](Wireframes/32.png)-->
+![PendingAcitivityDetail](docs/Wireframes/ApendingActivityDetail.png)
 
 ## Screenshots of your Trello board throughout the duration of the project
 
+Link to Trello Boards:
+
+Part A - https://trello.com/b/HIMcvgnT/sports-4-us-part-a
+
+Part B - https://trello.com/b/cmjtAiJB/sports-4-us-part-b
+
 ### Day 1
-![Day1PartA](Day1PartA.png)
+![Day1PartA](docs/TrelloScreenShots/Day1PartA.png)
 ### Day 6
-![Day6PartA](Day6PartA.png)
+![Day6PartA](docs/TrelloScreenShots/Day6PartA.png)
 ### Day 8
-![Day8PartA](Day8PartA.png)
+![Day8PartA](docs/TrelloScreenShots/Day8PartA.png)
 ### Day 11
+![Day11PartA](docs/TrelloScreenShots/Day11PartA.png)
 ### Day 14
+![Day14PartA](docs/TrelloScreenShots/Day14PartA.png)
+
+![Day14PartB](docs/TrelloScreenShots/Day14PartB.png)
