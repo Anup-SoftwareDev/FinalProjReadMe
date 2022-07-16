@@ -145,17 +145,17 @@ DevOps: Git, Github, VS Code
 
 ## Dataflow Diagram
 
-![One](1.png)
-![2pt1](2.1.png)
-![2pt2](2.2.png)
-![3pt1](3.1.png)
-![3pt2pt3spt3](3.2.3.3.png)
-![3pt4pt3spt5](3.4.3.5.png)
-![One](4.png)
-![One](5.png)
-![One](6.png)
-![One](7.png)
-![One](8.png)
+![One](docs/DataFlowDiagrams/1.png)
+![2pt1](docs/DataFlowDiagrams/2.1.png)
+![2pt2](docs/DataFlowDiagrams/2.2.png)
+![3pt1](docs/DataFlowDiagrams/3.1.png)
+![3pt2pt3spt3](docs/DataFlowDiagrams/3.2.3.3.png)
+![3pt4pt3spt5](docs/DataFlowDiagrams/3.4.3.5.png)
+![One](docs/DataFlowDiagrams/4.png)
+![One](docs/DataFlowDiagrams/5.png)
+![One](docs/DataFlowDiagrams/6.png)
+![One](docs/DataFlowDiagrams/7.png)
+![One](docs/DataFlowDiagrams/8.png)
 
 ## Application Architecture Diagram
 
