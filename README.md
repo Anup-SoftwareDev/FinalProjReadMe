@@ -143,18 +143,63 @@ Utilities: diagrams.net, Balsamiq Wireframes
 DevOps: Git, Github, VS Code
 
 
-## Dataflow Diagram
+## Dataflow Diagrams
+
+### DFD for All Users
 
 ![One](docs/DataFlowDiagrams/DFD1.png)
+
+As shown above all users can view the Home Page, Sporting Categories, view Individual Category Activities, details of the Activities  and the Contact Page. All Activities data will be retrieved from the Activities Table in the Database. Data regarding the weather conditions will be retrieved from an external Weather API. However this is currently not part of the Minimum Viable Product Design.
+
+### DFD for Guest Users Only
+
 ![2](docs/DataFlowDiagrams/DFD2.png)
+
+As shown above Guest Users can sign up and send the data to be stored in a Users Table in the database. This data can also be retrieved to set the User to a Logged-in condition. During Sign up the app could be set up to charge a fee. This will would mean data will have to be sent to an externaly payment API. However this is currently not part of the Minimum Viable Product Design.
+
+### DFD for All Logged-In Users
+
 ![3pt1](docs/DataFlowDiagrams/DFD3.1.png)
+
+This shows how data can be sent to "Sign Out" a user and how a user can View the page that shows the full Members' list. Data for the Member's List is obtained from the Users Table in the database. After Sign out the user is taken to the Home page.
+
 ![3pt2pt3spt3](docs/DataFlowDiagrams/DFD3.2.3.3.png)
+
+Figure 3.2 Shows how messages are read and posted in the messaging channels. Data here is stored and retrieved from the Messaging Channel table in the database.
+
+Figure 3.3 Shows how personal messages are read from the Inbox table in the database. 
+
 ![3pt4pt3spt5](docs/DataFlowDiagrams/DFD3.4.3.5.png)
-![One](docs/DataFlowDiagrams/DFD4.png)
-![One](docs/DataFlowDiagrams/DFD5.png)
-![One](docs/DataFlowDiagrams/DFD6.png)
-![One](docs/DataFlowDiagrams/DFD7.png)
-![One](docs/DataFlowDiagrams/DFD8.png)
+
+Figure 3.4 Shows how Personal messages can be read and replied to. All data is retrieved and stored from the Inbox table.
+
+Figure 3.5 Shows how a new message can be composed and sent to another member. Again this message will be stored in the Inbox table in the database
+
+![DFD4](docs/DataFlowDiagrams/DFD4.png)
+
+This shows how a logged in User can Edit their profole. details in the Users table is retrieved, Edited and Stored.
+
+### DFD for Organiser Users
+
+![DFD5](docs/DataFlowDiagrams/DFD5.png)
+
+This diagram show show Organisers can retrieve information on their organised activities from the Activities Table. It also shows a feature that is not MVP at the momment - Create Activity. This will be stored in a new table called "Pending Activity Table"
+
+### DFD for Member Users
+
+![DFD6](docs/DataFlowDiagrams/DFD6.png)
+
+This shows how data flows to all the different tables in the database when Member users book activities and view activities they are participating in.
+
+### DFD for Admin Users
+
+![DFD7](docs/DataFlowDiagrams/DFD7.png)
+
+This shows how data is stored into the Activities Table in the database after the Admin Creates Activities in the Create activity Page. It also shows how Admin can edit User Profiles from the Members' page by accessing and storing information from the Users table.
+
+![DFD8](docs/DataFlowDiagrams/DFD8.png)
+
+This feature that is currently not MVP will require information to be retrieved from a new table called "Pending Activity table"  and be stored in the Activity table in the database.
 
 ## Application Architecture Diagram
 
