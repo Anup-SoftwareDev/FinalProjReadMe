@@ -54,6 +54,8 @@ Australian Sports Commision (2022) Drivers and barriers of participation. Availa
 
 ### Functionality / features
 
+![features](docs/Description/features.png)
+
 In order to understand the full functionality of Sport-4-Us App, it is important to examine it from the perspective of each of the four different types of users, that will be using the Application:
 
 **Guest Users**
