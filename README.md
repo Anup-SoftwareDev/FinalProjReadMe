@@ -510,13 +510,31 @@ The rest of this section will provide screenshots and explanations on how the bo
 
 ### Day 1
 ![Day1PartA](docs/TrelloScreenShots/Day1PartA.png)
+
+As it can be noticed above, the Trello board for Part A phase of the design process was set up. This board contains 8 cards/main tasks that need to be completed to ensure the completion of this phase. The first card activity("Description of Website") is set to start on 8/07/2022 and the last card Activity(Finalise README) is set to be completed on 16/07/2022. 
 ### Day 6
 ![Day6PartA](docs/TrelloScreenShots/Day6PartA.png)
+
+By Day 6 three card activities (Wireframes,Application Architecture and User Stories) have been fully completed. Dataflow diagrams were also completed, however needed more revising and tidying up. Trello Screenshots were progressing as required. "Description of website" was done halfway and the other two items(Presentation and README) had not been started since it was not necessary at this stage.
 ### Day 8
 ![Day8PartA](docs/TrelloScreenShots/Day8PartA.png)
+
+As it can be seen here every card has progressed except for the 'presentation' card. README document was done half-way and the same can be said about the 'Description of Website' card.
 ### Day 11
 ![Day11PartA](docs/TrelloScreenShots/Day11PartA.png)
+
+By Day 11, Data Flow Diagrams and 'Description of Website' were also fully completed. The presentation was done on paper and waiting to be presented. README had also progressed to almost completion.
 ### Day 14
 ![Day14PartA](docs/TrelloScreenShots/Day14PartA.png)
 
+As it can be noticed here, all tasks have been completed on time as required.
+
 ![Day14PartB](docs/TrelloScreenShots/Day14PartB.png)
+
+At this stage the team has had to look at planning for the next phase of the design process. The Board above shows a large list of activities that are meant to be started on the 16/07/2022 and completed on 1/08/2022. This phase involves implementation of a Front End, a Back End and their integration. However the project will be tackled in 5 steps as shown below:
+
+- First to get the App working for a Guest User,
+- Second to get the App working for a Member User,
+- Third to get it working for an Organiser User,
+- Forth to get it working fo the Admin User,
+- Fifth do a final Deplyment.
