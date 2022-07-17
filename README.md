@@ -536,5 +536,5 @@ At this stage the team has had to look at planning for the next phase of the pro
 - First to get the App working for a **Guest** User,
 - Second to get the App working for a **Member** User,
 - Third to get it working for an **Organiser** User,
-- Forth to get it working fo the **Admin** User,
+- Forth to get it working for the **Admin** User,
 - Fifth to do a Final **Deployment**.
