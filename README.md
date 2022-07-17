@@ -493,11 +493,20 @@ This feature is currently not part of the MVP. When implemented admin will be ab
 
 ## **Screenshots of your Trello board throughout the duration of the project**
 
-Link to Trello Boards:
+In order to manage this project appropriately throughout the design and implementation process, the team has chossen to use Trello, which is a Software package that serves as Project Management tool.
+
+The team has created two different boards to track and update the progress of the project:
+
+- **Final Project Part A** Board: This will track and update the progress of the project in the Design phase of the project.
+- **Final Project Part B** Board: This will track and update the progress of the project in the Implementation and Final Deployment phase of the project.
+
+The links to both boards are shown below:
 
 Part A - https://trello.com/b/HIMcvgnT/sports-4-us-part-a
 
 Part B - https://trello.com/b/cmjtAiJB/sports-4-us-part-b
+
+The rest of this section will provide screenshots and explanations on how the boards have changed and progressed through different stages of the project.
 
 ### Day 1
 ![Day1PartA](docs/TrelloScreenShots/Day1PartA.png)
