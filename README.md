@@ -537,4 +537,4 @@ At this stage the team has had to look at planning for the next phase of the pro
 - Second to get the App working for a Member User,
 - Third to get it working for an Organiser User,
 - Forth to get it working fo the Admin User,
-- Fifth do a Final Deployment.
+- Fifth to do a Final Deployment.
