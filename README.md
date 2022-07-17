@@ -1,6 +1,6 @@
-# Full Stack App (Part A)
+# **Full Stack App (Part A)**
 
-## Description of the application
+## **Description of the application**
 
 Sports-4-Us is an App that that helps people from all walks of life, to **join** and **participate** in a wide variety of **sporting activities** of their *choice* and at times *flexible* for them.
 
@@ -9,7 +9,7 @@ The figure below shows how a user can typically use the Sport4Us app to eventual
 ![Sports4Us](docs/Description/Sports4Us.png)
 
 
-### Purpose
+### **Purpose**
 
 The main purpose behind Sports-4-Us is to try build an Application that will make it easier for more people to  ***participate in sports***.
 
@@ -47,12 +47,12 @@ A summary of everything mentioned so far is shown in the image below:
 
 ![whySports4Us](docs/Description/whySports4Us.png)
 
-****Refference***
+**Reference**
 
 Australian Sports Commision (2022) Drivers and barriers of participation. Available at: https://www.sportaus.gov.au/participation/drivers/barriers
 (Accessed: 12 July 2022).
 
-### Functionality / features
+### **Functionality / features**
 
 ![features](docs/Description/features.png)
 
@@ -123,15 +123,15 @@ Administrators are the people that are responsible for administrative functions 
 
 All the above features are what has been decided to be part of the ***Minimum Viable Product*** for design of the Application. Once all that has been implemented the developers hope to implement the following to enrich the Application:
 
-- Admin will be in a position to Accept or Reject Activities created by Organisers,
+- Admin will be in a position to Accept or Reject Activities created by Organisers.
 - Admin will be able to view a list of Activities that are waiting to be approved.
 
 
-### Target audience
+### **Target audience**
 
 This app will be aimed for anybody from any backround above the age of 18 who would love to participate in sport for a healthy lifestyle and closer social interaction with other peopele that share the same interests.
 
-### Tech stack
+### **Tech stack**
 
 - Front-end: HTML5, CSS3, REACT.JS, JavaScript, JSX, AXIOS, Material-ui.
 
@@ -154,21 +154,21 @@ Utilities: diagrams.net, Balsamiq Wireframes
 DevOps: Git, Github, VS Code
 
 
-## Dataflow Diagrams
+## **Dataflow Diagrams**
 
-### DFD for All Users
+### **DFD for All Users**
 
 ![One](docs/DataFlowDiagrams/DFD1.png)
 
 As shown above all users can view the Home Page, Sporting Categories, view Individual Category Activities, details of the Activities  and the Contact Page. All Activities data will be retrieved from the Activities Table in the Database. Data regarding the weather conditions will be retrieved from an external Weather API. However this is currently not part of the Minimum Viable Product Design.
 
-### DFD for Guest Users Only
+### **DFD for Guest Users Only**
 
 ![2](docs/DataFlowDiagrams/DFD2.png)
 
 As shown above Guest Users can sign up and send the data to be stored in a Users Table in the database. This data can also be retrieved to set the User to a Logged-in condition. During Sign up the app could be set up to charge a fee. This will would mean data will have to be sent to an externaly payment API. However this is currently not part of the Minimum Viable Product Design.
 
-### DFD for All Logged-In Users
+### **DFD for All Logged-In Users**
 
 ![3pt1](docs/DataFlowDiagrams/DFD3.1.png)
 
@@ -190,19 +190,19 @@ Figure 3.5 Shows how a new message can be composed and sent to another member. A
 
 This shows how a logged in User can Edit their profole. details in the Users table is retrieved, Edited and Stored.
 
-### DFD for Organiser Users
+### **DFD for Organiser Users**
 
 ![DFD5](docs/DataFlowDiagrams/DFD5.png)
 
 This diagram show show Organisers can retrieve information on their organised activities from the Activities Table. It also shows a feature that is not MVP at the momment - Create Activity. This will be stored in a new table called "Pending Activity Table"
 
-### DFD for Member Users
+### **DFD for Member Users**
 
 ![DFD6](docs/DataFlowDiagrams/DFD6.png)
 
 This shows how data flows to all the different tables in the database when Member users book activities and view activities they are participating in.
 
-### DFD for Admin Users
+### **DFD for Admin Users**
 
 ![DFD7](docs/DataFlowDiagrams/DFD7.png)
 
@@ -212,18 +212,19 @@ This shows how data is stored into the Activities Table in the database after th
 
 This feature that is currently not MVP will require information to be retrieved from a new table called "Pending Activity table"  and be stored in the Activity table in the database.
 
-## Application Architecture Diagram
+## **Application Architecture Diagram**
 
 ![ArcDiag](docs/ArchitectureDiagram.png)
 
 The one thing to note in the above Architecture Diagram is that the implementation of the system accessing the Weather API is not part of the MVP(Minimum Viable Product) design. It is a feature that will be implemented once all the MVP features have been sucessfully implemented.
-## User Stories
 
-### Initial market research:
+## **User Stories**
+
+### **Initial market research:**
 
 ![userStoriesPersonas](docs/UserStories/UserStoriesPersonas.png)
 
-### Final market research:
+### **Final market research:**
 
 | AS A..    | I WANT TO..                                                       | SO THAT..                                                                             |
 |-----------|-------------------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -249,7 +250,7 @@ The one thing to note in the above Architecture Diagram is that the implementati
 
 
 
-## Wireframes for multiple standard screen sizes, created using industry standard software
+## **Wireframes for multiple standard screen sizes, created using industry standard software**
 
 This section shows all the wireframes that have been designed for Sports4Us App. The wireframes have been separated into four sections:
 
@@ -260,7 +261,7 @@ This section shows all the wireframes that have been designed for Sports4Us App.
 
 Each section will first provide a sitemap on how the webpages will 'flow' under the logged in/not logged-in condition and then the wireframes for each of the webpages shown in the sitemap will be displayed in order. However if any of the webpages in the sitemap is a repeat and had been shown before, then it will not be repeated again.
 
-### A. Wireframes - User Not Logged-In
+### **A. Wireframes - User Not Logged-In**
 
 ![notLoggedIn](docs/SiteMaps/SMnotLoggedIn.png)
 
@@ -290,7 +291,7 @@ Once a category (cycling in this example) is clicked this page will appear shing
 
 This page will show full details ont he activity and links to Register, View Participants and Message. There is a Weather forecast feature which is not part of the MVP design and will be considered in the future. View Paricipants will also be a non-MVP feature which will be accessible only to admin and organisers.
 
-**A.5 - Contact Page**
+**5 - Contact Page**
 
 ![ContactPage](docs/Wireframes/NLcontactPage.png)
 
@@ -306,7 +307,7 @@ As shown the Sign up page lets the user input information required for a basic s
 
 This feature will require accessing an external page like "stripe" and hence will not be designed here. It should also be noted that it is not part of the MVP design at the momment.
 
-### B. Wireframes - Member Login
+### **B. Wireframes - Member Login**
 
 ![Member](docs/SiteMaps/SMmember.jpeg)
 
@@ -326,7 +327,7 @@ This is a simple Login form which just requres email and password.
 
 THis now shows a summary of the User's personal messages and Participating Activities. On the left user will have a nav bar showing the Member's profile picture and links to all the pages that 'flow' from the dashboard. The mobile view will display everything below the picture as shown.
 
-**B.3 - Profile**
+**3 - Profile**
 
 ![profile](docs/Wireframes/Mprofile.png)
 
@@ -380,7 +381,7 @@ Here the members can post messages relating to a particular sporting category an
 
 This gives the member a count on the total activities that was participated and give a full list of the activities. This is however not part of the MVP design.
 
-### C. Wireframes - Organiser Login
+### **C. Wireframes - Organiser Login**
 
 ![Organiser](docs/SiteMaps/SMorganiser.png)
 
@@ -448,13 +449,13 @@ This feature is currently not part of the MVP. When implemented the organiser wi
 
 This feature is currently not part of the MVP. When implemented the organiser will be able to view details of the activities created by them and waiting for approval.
 
-### Wireframes - Admin Login**1**
+### **Wireframes - Admin Login**
 
 ![Admin](docs/SiteMaps/SMadmin.png)
 
 What is different here is the page where Admin can edit the User profile of any member. They can also create activities. Finally there in a non-MVP part where there are pages to view and Approve activities created by the Organiser.
 
-**1 - D. Admin Dashboard**
+**1 - Admin Dashboard**
 
 ![AdminDashboard](docs/Wireframes/AadminDashboard.png)
 
@@ -471,8 +472,6 @@ This page is very similar to the pages for members to edit their personal profil
 ![DirectMessageForm](docs/Wireframes/AdirectMessageForm.png)
 
 This is very similar to the previous Direct Message Form page with a few changes in the nav bar as mentioned before.
-
-
 
 **4 - Direct Message Reply Form**
 
@@ -492,7 +491,7 @@ This feature is currently not part of the MVP. When implemented the admin will b
 
 This feature is currently not part of the MVP. When implemented admin will be able to view details of the activities created by the Organisers and either approve or reject them.
 
-## Screenshots of your Trello board throughout the duration of the project
+## **Screenshots of your Trello board throughout the duration of the project**
 
 Link to Trello Boards:
 
