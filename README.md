@@ -515,11 +515,11 @@ As it can be noticed above, the Trello board for Part A phase of the design proc
 ### Day 6
 ![Day6PartA](docs/TrelloScreenShots/Day6PartA.png)
 
-By Day 6 three card activities (Wireframes,Application Architecture and User Stories) have been fully completed. Dataflow diagrams were also completed, however needed more revising and tidying up. Trello Screenshots were progressing as required. "Description of website" was done halfway and the other two items(Presentation and README) had not been started since it was not necessary at this stage.
+By Day 6 three card activities (Wireframes,Application Architecture and User Stories) have been fully completed. Dataflow diagrams were also completed, however needed more revising and tidying up. Trello Screenshots were progressing as required. "Description of website" was done halfway and the other two items(Presentation and README) had not been started, since it was not necessary at that stage.
 ### Day 8
 ![Day8PartA](docs/TrelloScreenShots/Day8PartA.png)
 
-As it can be seen here every card has progressed except for the 'presentation' card. README document was done half-way and the same can be said about the 'Description of Website' card.
+As it can be seen here every card has progressed, except for the 'presentation' card. README document was done half-way and the same can be said about the 'Description of Website' card.
 ### Day 11
 ![Day11PartA](docs/TrelloScreenShots/Day11PartA.png)
 
@@ -527,14 +527,14 @@ By Day 11, Data Flow Diagrams and 'Description of Website' were also fully compl
 ### Day 14
 ![Day14PartA](docs/TrelloScreenShots/Day14PartA.png)
 
-As it can be noticed here, all tasks have been completed on time as required.
+As it can be noticed above, all tasks regardign Part A had been completed on time as required.
 
 ![Day14PartB](docs/TrelloScreenShots/Day14PartB.png)
 
-At this stage the team has had to look at planning for the next phase of the design process. The Board above shows a large list of activities that are meant to be started on the 16/07/2022 and completed on 1/08/2022. This phase involves implementation of a Front End, a Back End and their integration. However the project will be tackled in 5 steps as shown below:
+At this stage the team has had to look at planning for the next phase of the project. The Board above shows a large list of activities that are meant to be started on the 16/07/2022 and completed by 1/08/2022. This phase involves implementation of a Front End, a Back End and their integration. However the project will be tackled in 5 steps as shown below:
 
 - First to get the App working for a Guest User,
 - Second to get the App working for a Member User,
 - Third to get it working for an Organiser User,
 - Forth to get it working fo the Admin User,
-- Fifth do a final Deplyment.
+- Fifth do a Final Deployment.
