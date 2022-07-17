@@ -533,8 +533,8 @@ As it can be noticed above, all tasks regardign Part A had been completed on tim
 
 At this stage the team has had to look at planning for the next phase of the project. The Board above shows a large list of activities that are meant to be started on the 16/07/2022 and completed by 1/08/2022. This phase involves implementation of a Front End, a Back End and their integration. However the project will be tackled in 5 steps as shown below:
 
-- First to get the App working for a Guest User,
-- Second to get the App working for a Member User,
-- Third to get it working for an Organiser User,
-- Forth to get it working fo the Admin User,
-- Fifth to do a Final Deployment.
+- First to get the App working for a **Guest** User,
+- Second to get the App working for a **Member** User,
+- Third to get it working for an **Organiser** User,
+- Forth to get it working fo the **Admin** User,
+- Fifth to do a Final **Deployment**.
